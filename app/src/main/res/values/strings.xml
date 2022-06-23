@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities23rdJun</string>
+    <string name="im_second_act">I\'m the second Activity</string>
+    <string name="open_second">Open the Second One</string>
+    <string name="increase">Increase</string>
+    <string name="open_counter">Open Counter</string>
+</resources>
